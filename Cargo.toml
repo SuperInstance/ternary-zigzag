@@ -1,0 +1,9 @@
+[package]
+name = "ternary-zigzag"
+version = "0.1.0"
+edition = "2021"
+description = "Zigzag scanning for ternary matrix compression"
+license = "MIT"
+repository = "https://github.com/SuperInstance/ternary-zigzag"
+
+[dependencies]
